@@ -19,6 +19,7 @@ function App() {
 
       <h1>Vite + React</h1>
       <h2>✨ Welcome to my React App! by lithika, nancy mary licet✨</h2>
+      <h2> Hello World</h2>
       <p style={{ color: "teal", fontSize: "18px" }}>
         This is a simple app created with <strong>Vite</strong> and{" "}
         <strong>React</strong>. Feel free to explore and modify the code!
