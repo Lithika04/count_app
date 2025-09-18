@@ -1,10 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <>
@@ -18,10 +18,10 @@ function App() {
       </div>
 
       <h1>Vite + React</h1>
-      <h2>✨ Welcome to my React App! ✨</h2>
+      <h2>✨ Welcome to my React App! by lithika, nancy mary licet✨</h2>
       <p style={{ color: "teal", fontSize: "18px" }}>
-        This is a simple app created with <strong>Vite</strong> and <strong>React</strong>.  
-        Feel free to explore and modify the code!
+        This is a simple app created with <strong>Vite</strong> and{" "}
+        <strong>React</strong>. Feel free to explore and modify the code!
       </p>
 
       <div className="card">
@@ -37,7 +37,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
